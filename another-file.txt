@@ -1,1 +1,3 @@
 Another file was created
+
+This file was modified under new release.
